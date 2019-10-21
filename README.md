@@ -2,6 +2,11 @@
 
 This program clones an exisitng git repository with script.py file in it, checks out specific commit, executes given script and cleans up working directory.
 
+## Before using
+
+Note, that `git` should be installed before using this program.
+See https://git-scm.com/downloads.
+
 ## Usage
 `run.py` script takes 3 required arguments: 
 - git repository url
